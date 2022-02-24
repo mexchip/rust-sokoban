@@ -5,7 +5,7 @@
 ## :dart: What is it?
 This repository hosts the Rust Sokoban book and source code used in the book. It's using [mdbook](https://github.com/rust-lang/mdBook). You can read the book at [sokoban.iolivia.me](https://sokoban.iolivia.me). 
 
-<img src="src/images/readme.gif" width="80%">
+<img src="readme.gif" width="80%">
 
 ## :running: How to?
 
